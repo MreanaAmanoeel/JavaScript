@@ -281,6 +281,9 @@ footer {
     background-color: #dee3ff; /* light lavender/blue */
 	color:black;
 }
+.Column_1 p{
+	color:black;
+}
 
 .Column_2 {
     float: left;
